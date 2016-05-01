@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="1000px" height="1000px" viewBox="0 0 1000 1000" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7.2 (28276) - http://www.bohemiancoding.com/sketch -->
+    <title>Logo</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="500" cy="500" r="500"></circle>
+        <path d="M94.8852713,72.3968464 L65.3611343,16.8700205 C62.5861306,11.6509976 64.5686671,5.14492722 69.8020151,2.3623067 C75.0365139,-0.420925638 81.5320467,1.56349163 84.312764,6.79326017 L113.892284,62.4242457 C138.436268,51.2342277 165.713895,45 194.447138,45 C223.628049,45 251.307635,51.4300017 276.147195,62.950877 L306.593174,5.69031875 C309.373891,0.46055021 315.869424,-1.52386705 321.103922,1.25936528 C326.33727,4.0419858 328.319807,10.5480562 325.544803,15.767079 L295.088707,73.0466663 C351.318976,107.137672 388.894275,168.934063 388.894275,239.509448 C388.894275,346.934049 301.837327,434.018895 194.447138,434.018895 C87.0569489,434.018895 1.13686838e-13,346.934049 1.13686838e-13,239.509448 C1.13686838e-13,168.483299 38.0568174,106.348645 94.8852713,72.3968464 Z" id="path-3"></path>
+    </defs>
+    <g id="Logo" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g>
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Round-Mask" fill="#259347" xlink:href="#path-1"></use>
+            <g id="Flag-Art" mask="url(#mask-2)">
+                <g transform="translate(83.432658, 208.511323)" id="Diamond-(Yellow-Part)-+-Android-">
+                    <g>
+                        <g id="Diamond-(Yellow-Part)" fill="#F6C316">
+                            <polygon id="Diamond" points="413.885938 583.469748 832.370609 290.123079 418.484671 0 0 293.346669"></polygon>
+                        </g>
+                        <g id="Android-" transform="translate(421.914363, 270.406088) rotate(-345.000000) translate(-421.914363, -270.406088) translate(227.414363, 52.906088)">
+                            <mask id="mask-4" fill="white">
+                                <use xlink:href="#path-3"></use>
+                            </mask>
+                            <use id="Antenna" fill="#002478" xlink:href="#path-3"></use>
+                            <rect id="Stripe" fill="#FFFFFF" mask="url(#mask-4)" x="-16" y="215" width="422.22807" height="48.9052325"></rect>
+                            <ellipse id="Eye" fill="#FFFFFF" mask="url(#mask-4)" cx="115.516086" cy="138.224803" rx="18.8891505" ry="18.8952035"></ellipse>
+                            <ellipse id="Eye" fill="#FFFFFF" mask="url(#mask-4)" cx="271.073796" cy="138.224803" rx="18.8891505" ry="18.8952035"></ellipse>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
